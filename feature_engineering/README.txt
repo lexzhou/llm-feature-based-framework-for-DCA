@@ -1,0 +1,1 @@
+This folder contains all scripts for generating all discrete and LLM-generated features except for the "politeness markers" feature set, which can be found in the section "1.2. Politeness Markers" of "../experiments/feature-based_models.ipynb" instead.
