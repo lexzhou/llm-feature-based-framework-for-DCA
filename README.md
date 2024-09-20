@@ -1,5 +1,5 @@
 # An LLM Feature-based Framework for Dialogue Constructiveness Assessment
-This repository bundles the code associated with the paper: [An LLM Feature-based Franework for Dialogue Constructiveness Assessment](https://arxiv.org/pdf/2406.14760).
+This repository bundles the code associated with the paper: [An LLM Feature-based Franework for Dialogue Constructiveness Assessment](https://arxiv.org/pdf/2406.14760) that is accepted by [EMNLP 2024](https://2024.emnlp.org).
 
 ## Paper Overview
 
